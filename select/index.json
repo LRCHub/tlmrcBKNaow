@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ドクトリーヌ",
+  "base_artist": "煮ル果実",
+  "createdAt": "2026-02-17T02:27:00.624891Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドクトリーヌ",
+      "artist": "煮ル果実",
+      "has_synced": false,
+      "path": "select/pl_01_ドクトリーヌ_煮ル果実.txt"
+    }
+  ]
+}
